@@ -1,6 +1,6 @@
-.idea/**/*.xml
+#.idea/**/*.xml
 *.xml
-/idea
-idea/
-idea/**/*.xml
+#/idea
+#idea/
+#idea/**/*.xml
 .idea/
